@@ -42,7 +42,8 @@ git commit -m "commit message"
 git push -u origin main
 ```
 Enter your username and access token when prompted
-```Username for 'https://github.com': 
+```
+   Username for 'https://github.com': 
    Password for 'https://username@github.com': 
 ```
 9. Push changes 
